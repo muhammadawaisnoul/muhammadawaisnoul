@@ -17,11 +17,9 @@
 
 ## 🚀 Featured Projects  
 
-1. 💬 [*Chat Sphere App*](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
-   Real-time messaging with Firebase backend, push notifications, and modern UI.  
+1. 💬 [*Most Earn App*](https://github.com/AwaisNoul/MostEarn.git)  
+   AdMob ads with Firebase backend, Realtime Database, and modern UI.  
 
-2. ⏱ [*App Usage Tracker*](https://github.com/AttaMuhammad16/App-Usage-Tracker-Compose)  
-   Track app usage time daily using *Jetpack Compose* and Material 3.  
 
 
 
