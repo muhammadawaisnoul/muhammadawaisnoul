@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Java, Firebase, and Clean Architecture**
 
-- 📫 How to reach me **awaisnoul4036@gmail.com**
+- 📫 How to reach me **awaisbhai4152@gmail.com**
 
 - ⚡ Fun fact **I believe every problem has an optimized solution in code.**
 
