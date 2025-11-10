@@ -18,7 +18,9 @@
 ## 🚀 Featured Projects  
 
 1. 💬 [*Most Earn App*](https://github.com/muhammadawaisnoul/MostEarn)  
-   AdMob ads with Firebase backend, Realtime Database, and modern UI.  
+   AdMob ads with Firebase backend, Realtime Database, and modern UI.
+2. 💬 [*PDF Scanner App*]()  
+   Developed a multifunctional app with PDF scanning, PDF-to-image conversion, and digital signature features using Kotlin and Android SDK.  
 
 
 
